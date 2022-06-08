@@ -29,6 +29,13 @@ header .navbar-brand {
     background-size: cover;
 }
 
+.about-bg-2 {
+    background: url(../img/banner-bg.png) no-repeat;
+    background-position: center 0;
+    background-size: cover;
+    min-height: 400px;
+}
+
 @media(min-width:993px) {
     header .nav-link {
         font-size: 1.1rem !important;
